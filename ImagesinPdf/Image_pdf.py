@@ -1,7 +1,5 @@
 from io import BytesIO
-import cv2
 import pandas as pd
-
 from img2table.document import PDF
 
 pdf_path = "C:\\Users\\Arnav_Sharma\\PyProj\\pdfimg.pdf"
