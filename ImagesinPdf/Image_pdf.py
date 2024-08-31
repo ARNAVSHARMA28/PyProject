@@ -1,6 +1,3 @@
-from IPython.display import display_html
-from PIL import Image as PILImage
-from openpyxl import load_workbook
 from io import BytesIO
 import cv2
 import pandas as pd
